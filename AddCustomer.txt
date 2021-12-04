@@ -1,0 +1,37 @@
+
+'*****************************************************************************
+
+'' ABC Automated Testing
+'' Copyright (c) 2019 ABC
+'' All Rights Reserved Worldwide
+'' Unauthorized Duplication or Distribution Prohibited
+'' *****************************************************************************
+'' FILENAME: addcustomer
+'' *****************************************************************************
+'' ABOUT THIS FILE 
+
+'' AUTHOR IDENTITY:
+
+'' Initials						Name/Company
+'' --------		 				-----------------------------------------
+'' rw 							Rick Wagonner ABC INC
+
+'' REVISION HISTORY:
+
+'' Date/Initials	 	Comments
+
+'' ---------					-------------------------------
+
+'' 06/09/2021  rw	Created for LoanApp 2.1
+
+
+'' **************************************************************************
+''SCRIPT
+
+
+
+Addcustomer "james","jason","1200 harry blvd","Bollywood","CA","97842"
+
+Addcustomer "","lucy","550 faser blvd","kollywood","BC","55023"
+
+Addcustomer "peter","","suuny road","Hollywood","ON","53289"
