@@ -35,3 +35,11 @@ Addcustomer "james","jason","1200 harry blvd","Bollywood","CA","97842"
 Addcustomer "","lucy","550 faser blvd","kollywood","BC","55023"
 
 Addcustomer "peter","","suuny road","Hollywood","ON","53289"
+
+"valid input
+Addcustomer "ram","sam","minoru blvd","Richmond","BC","123546"
+
+Addcustomer "Emma","Lilly","Fraser st","Richmond","Bc","456789"
+
+"another valid input
+Addcustomer "wolf","lucky","grouse st","vancouver","Bc","564864"
